@@ -6,7 +6,6 @@ import Loader from "./components/Loader"
 import Countdown from "./components/Countdown"
 import Celebration from "./components/Celebration"
 import HappyBirthday from "./components/HappyBirthday"
-import PhotoGallery from "./components/PhotoGallery"
 import Letter from "./components/Letter"
 import { motion } from "motion/react"
 
